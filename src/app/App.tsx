@@ -1,11 +1,8 @@
+import { AppRotas } from "./routes";
 
 export const App = () => {
   return (
-   <>
-   <div>
-    olá
-   </div>
-   </>
+    <AppRotas/>
   );
 }
 
